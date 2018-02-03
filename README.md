@@ -9,6 +9,7 @@ A toy program to predict attractiveness.
 
 | anaconda-version |  python2.7   |
 | ---------- | ------ |
+| dlib      | 19|
 | boost      | 1.65.1 |
 |   cmake         |   3.10.0     |
 |    system-platform         |    win10    |
